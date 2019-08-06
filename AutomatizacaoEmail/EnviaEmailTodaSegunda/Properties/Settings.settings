@@ -1,0 +1,45 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EnviaEmailTodaSegunda.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="cone" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Provider=SQLOLEDB.1;Password=;Persist Security Info=True;User ID=sa;Initial Catalog=helpdesk2;Data Source=DBSERVER</Value>
+    </Setting>
+    <Setting Name="svip" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">192.168.0.13</Value>
+    </Setting>
+    <Setting Name="usuario" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">programas@midiavox.com.br</Value>
+    </Setting>
+    <Setting Name="senha" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">m1d14v0x</Value>
+    </Setting>
+    <Setting Name="diadasemanaEnvioChamados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">segunda-feira</Value>
+    </Setting>
+    <Setting Name="HorarioQtdChamados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">08:00</Value>
+    </Setting>
+    <Setting Name="HorarioChamadosPessoais" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">07:00</Value>
+    </Setting>
+    <Setting Name="diasAtualizacaoChamados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="HorarioAtualizacaoChamados" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">09:00</Value>
+    </Setting>
+    <Setting Name="EmailRecebeRelatorio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">luiz.anibal@midiavox.com.br, cleiton.melo@midiavox.com.br</Value>
+    </Setting>
+    <Setting Name="MesEnviaRelatorio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">01</Value>
+    </Setting>
+    <Setting Name="HoraEnviaRelatorio" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">08:00</Value>
+    </Setting>
+    <Setting Name="DestinatarioComparativo" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">luiz.anibal@midiavox.com.br</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,12 @@
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\bin\x86\Debug\EnviaEmailTodaSegunda.exe.config
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\bin\x86\Debug\EnviaEmailTodaSegunda.exe
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\bin\x86\Debug\EnviaEmailTodaSegunda.pdb
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\bin\x86\Debug\log4net.dll
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\bin\x86\Debug\log4net.xml
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.Form1.resources
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.Properties.Resources.resources
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.csproj.GenerateResource.cache
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.csproj.CopyComplete
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.exe
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\x86\Debug\EnviaEmailTodaSegunda.pdb

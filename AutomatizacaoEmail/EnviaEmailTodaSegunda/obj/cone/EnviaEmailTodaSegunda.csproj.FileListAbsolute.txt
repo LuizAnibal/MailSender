@@ -1,0 +1,5 @@
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\cone\EnviaEmailTodaSegunda.csprojAssemblyReference.cache
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\cone\EnviaEmailTodaSegunda.Form1.resources
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\cone\EnviaEmailTodaSegunda.Properties.Resources.resources
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\cone\EnviaEmailTodaSegunda.csproj.GenerateResource.cache
+C:\Users\Luiz Anibal\Desktop\Projetos C#\EnviaEmailTodaSegunda\EnviaEmailTodaSegunda\obj\cone\EnviaEmailTodaSegunda.csproj.CoreCompileInputs.cache
